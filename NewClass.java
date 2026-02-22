@@ -8,9 +8,14 @@ package myproject.myproject;
  *
  * @author Dr. Fahd
  */
+
+/*
+Print hallo word
+*/
+
 public class NewClass {
     
        static public void main(String args[]){
-    System.out.print("hello");
+        System.out.print("helln/nword");
        }
 }
