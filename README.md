@@ -9,11 +9,11 @@ Welcome to my dedicated space for mastering **Computer Science** through the **A
 
 ## 📚 Study Roadmap
 I am following a structured path to cover the AP curriculum:
-- [x] **Unit 1:** Primitive Types & Basic Syntax
-- [ ] **Unit 2:** Using Objects & Boolean Expressions
-- [ ] **Unit 3:** Iteration (Loops) & Classes
-- [ ] **Unit 4:** Array/ArrayLists & 2D Arrays
-- [ ] **Unit 5:** Inheritance & Recursion
+- [x] **Unit 1:** Primitive Types & Basic Syntax.
+- [ ] **Unit 2:** Using Objects & Boolean Expressions.
+- [ ] **Unit 3:** Iteration (Loops) & Classes.
+- [ ] **Unit 4:** Array/ArrayLists & 2D Arrays.
+- [ ] **Unit 5:** Inheritance & Recursion.
 
 ## 📂 Repository Structure
 * `/notes`: Conceptual summaries and cheat sheets.
@@ -22,9 +22,9 @@ I am following a structured path to cover the AP curriculum:
 * `/projects`: Mini-apps built to test my understanding of specific units.
 
 ## 🛠️ Tools & Technologies
-* **Language:** Java (Primary for AP CSA) / Python (for Principles)
-* **IDE:** VS Code / IntelliJ IDEA
-* **Version Control:** Git & GitHub
+* **Language:** Java (Primary for AP CSA) / Python (for Principles).
+* **IDE:** VS Code / IntelliJ IDEA.
+* **Version Control:** Git & GitHub.
 
 ## 📈 Streak & Consistency
 I am committed to a consistent coding habit (keeping my GitHub streak alive! 🔥). This repository is updated weekly with new logic and optimizations.
