@@ -28,6 +28,3 @@ I am following a structured path to cover the AP curriculum:
 
 ## 📈 Streak & Consistency
 I am committed to a consistent coding habit (keeping my GitHub streak alive! 🔥). This repository is updated weekly with new logic and optimizations.
-
----
-*“Success is the sum of small efforts, repeated day-in and day-out.”*
